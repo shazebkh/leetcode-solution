@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/shazebkh/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [1952-three-divisors](https://github.com/shazebkh/leetcode-solution/tree/master/1952-three-divisors) |
 ## Enumeration
 |  |
