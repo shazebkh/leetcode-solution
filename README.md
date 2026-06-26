@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/shazebkh/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
+| [0326-power-of-three](https://github.com/shazebkh/leetcode-solution/tree/master/0326-power-of-three) |
 | [1952-three-divisors](https://github.com/shazebkh/leetcode-solution/tree/master/1952-three-divisors) |
 ## Enumeration
 |  |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/shazebkh/leetcode-solution/tree/master/1952-three-divisors) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/shazebkh/leetcode-solution/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
