@@ -7,5 +7,7 @@ public:
         bitset<32>bit1(s);//convert string into bits
         int rev=bit1.to_ulong();//converted bits into integer
         return rev;
+        //For future optimization
+        //Consider:How might you optimize this further if called repeatedly, perhaps using a lookup table?
     }
 };
