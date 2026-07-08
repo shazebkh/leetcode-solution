@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shazebkh/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/shazebkh/leetcode-solution/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/shazebkh/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shazebkh/leetcode-solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shazebkh/leetcode-solution/tree/master/0342-power-of-four) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
