@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shazebkh/leetcode-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shazebkh/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shazebkh/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/shazebkh/leetcode-solution/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/shazebkh/leetcode-solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/shazebkh/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shazebkh/leetcode-solution/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shazebkh/leetcode-solution/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
