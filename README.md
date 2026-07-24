@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shazebkh/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/shazebkh/leetcode-solution/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/shazebkh/leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/shazebkh/leetcode-solution/tree/master/0231-power-of-two) |
