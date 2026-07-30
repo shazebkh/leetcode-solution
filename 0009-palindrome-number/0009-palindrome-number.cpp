@@ -5,17 +5,18 @@ public:
         {
             return false;
         }
-        long int rev=0;
-        int temp=x;
-        while(x>0)
+        string s=to_string(x);
+        int left=0;
+        int right=s.length()-1;
+        while(left<=right)
             {
-                rev=rev*10+x%10;
-                x=x/10;
+                if(s[left]!=s[right])
+                {
+                    return false;
+                }
+                left++;
+                right--;
             }
-        if(temp==rev)
-        {
-            return true;
-        }
-        return false;
+        return true;
     }
 };
