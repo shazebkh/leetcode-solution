@@ -22,5 +22,6 @@ public:
         bitset<32> res(s);
         long ans=res.to_ulong();
         return ans;
+        
     }
 };
