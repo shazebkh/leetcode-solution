@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shazebkh/leetcode-solution/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/shazebkh/leetcode-solution/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/shazebkh/leetcode-solution/tree/master/1009-complement-of-base-10-integer) |
 ## Hash Table
 |  |
 | ------- |
