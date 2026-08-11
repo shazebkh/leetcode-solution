@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/shazebkh/leetcode-solution/tree/master/2485-find-the-pivot-integer) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/shazebkh/leetcode-solution/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
