@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shazebkh/leetcode-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/shazebkh/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/shazebkh/leetcode-solution/tree/master/1492-the-kth-factor-of-n) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
