@@ -2,14 +2,19 @@ class Solution {
 public:
     bool checkPerfectNumber(int num) {
        long int sum=0;
-       long int i=1;
-       while(i<num)
+       int left=1;
+       int right=num;
+       while(left<right)
        {
-            if(num%i==0)
+            if(num%left==0)
             {
-                sum=sum+i;
+                sum=sum+left;
             }
-            i++;
+            else if(num%right==0){
+                sum=sum+right;
+            }
+            left++;
+            right--;
        }
        if(sum==num)
        {
