@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shazebkh/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/shazebkh/leetcode-solution/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/shazebkh/leetcode-solution/tree/master/1952-three-divisors) |
+| [2396-strictly-palindromic-number](https://github.com/shazebkh/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/shazebkh/leetcode-solution/tree/master/2485-find-the-pivot-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shazebkh/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/shazebkh/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/shazebkh/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/shazebkh/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
