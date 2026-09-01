@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/shazebkh/leetcode-solution/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/shazebkh/leetcode-solution/tree/master/2485-find-the-pivot-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shazebkh/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3895-count-digit-appearances](https://github.com/shazebkh/leetcode-solution/tree/master/3895-count-digit-appearances) |
 ## Enumeration
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/shazebkh/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/shazebkh/leetcode-solution/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/shazebkh/leetcode-solution/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
