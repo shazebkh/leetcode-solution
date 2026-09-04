@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/shazebkh/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/shazebkh/leetcode-solution/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
