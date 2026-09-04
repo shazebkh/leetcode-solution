@@ -1,10 +1,6 @@
 class Solution {
 public:
     bool detectCapitalUse(string word) {
-        //if(word.size()==1)
-        //{
-        //    return true;
-        //}
         int count=0;
         for(char ch:word)
         {
