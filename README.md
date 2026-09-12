@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/shazebkh/leetcode-solution/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/shazebkh/leetcode-solution/tree/master/1952-three-divisors) |
 | [2396-strictly-palindromic-number](https://github.com/shazebkh/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/shazebkh/leetcode-solution/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/shazebkh/leetcode-solution/tree/master/2485-find-the-pivot-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shazebkh/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shazebkh/leetcode-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3701-compute-alternating-sum](https://github.com/shazebkh/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/shazebkh/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shazebkh/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shazebkh/leetcode-solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3731-find-missing-elements](https://github.com/shazebkh/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/shazebkh/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
+## Counting
+|  |
+| ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
