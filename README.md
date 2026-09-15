@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shazebkh/leetcode-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shazebkh/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/shazebkh/leetcode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/shazebkh/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/shazebkh/leetcode-solution/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/shazebkh/leetcode-solution/tree/master/0136-single-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shazebkh/leetcode-solution/tree/master/0027-remove-element) |
 | [0633-sum-of-square-numbers](https://github.com/shazebkh/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/shazebkh/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
