@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/shazebkh/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shazebkh/leetcode-solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/shazebkh/leetcode-solution/tree/master/3895-count-digit-appearances) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/shazebkh/leetcode-solution/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Enumeration
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/shazebkh/leetcode-solution/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/shazebkh/leetcode-solution/tree/master/1952-three-divisors) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/shazebkh/leetcode-solution/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Recursion
 |  |
 | ------- |
