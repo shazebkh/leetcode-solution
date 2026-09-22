@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shazebkh/leetcode-solution/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/shazebkh/leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/shazebkh/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shazebkh/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shazebkh/leetcode-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shazebkh/leetcode-solution/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shazebkh/leetcode-solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -162,10 +166,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shazebkh/leetcode-solution/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shazebkh/leetcode-solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
