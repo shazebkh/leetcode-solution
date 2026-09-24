@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/shazebkh/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shazebkh/leetcode-solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3731-find-missing-elements](https://github.com/shazebkh/leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shazebkh/leetcode-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Geometry
 |  |
@@ -179,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
