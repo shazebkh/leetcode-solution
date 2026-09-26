@@ -1,38 +1,18 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        //vector<string> rev;
-        //string rem="";
-        //for(int i=0;i<s.length();i++)
-        //{
-        //    if(s[i]!=' ')
-        //    {
-        //        rem+=s[i];
-        //    }
-        //    else{       
-        //        rev.push_back(rem);
-        //        rem.erase();
-        //    }
-        //}
-        //reverse(rev.begin(),rev.end());
-        //string ans="";
-        //for(int i=0;i<rev.size();i++)
-        //{
-        //    ans+=rev[i]+' ';
-        //}
-        //return ans;
-        int left=s.size();
         int right=s.size()-1;
         string ans="";
         string rem="";
+        /*USING INDEX SLICING TO GET THE WORDS IN REVERSE IN A
+            STRING*/
         while(right>=0)
         {
             if(s[right]!=' ')
             {
                 rem+=s[right];
             }
-            else{
-                
+            else{  
                 reverse(rem.begin(),rem.end());
                 rem=rem+' ';
                 ans+=rem;
@@ -40,15 +20,17 @@ public:
             }
             right--;
         }
+        /*THIS PARTS DEALS WITH THE EXCEPTION OF LAST WORD WHICH IS THE FIRST WORD OF NON REVERSED STRING*/
         reverse(rem.begin(),rem.end());
         ans+=rem;
+        /*THIS PARTS DEALS WITH EXTRA SPACE AT FRONT*/
         while (!ans.empty() && isspace(ans.front()))
            { ans.erase(ans.begin());}
-
+        /*THIS PART DEALS WITH EXTRA SPACES AT THE LAST OF STRING*/
         while (!ans.empty() && isspace(ans.back()))
             {ans.pop_back();
             }
-        int scount=0;
+        /*IT WILL DEAL WITH EXTRA MIDDLE SPACES*/
         for(int i=0;i<ans.size()-1;i++)
         {   if(ans[i]==' '&&ans[i+1]==' ')
             {
