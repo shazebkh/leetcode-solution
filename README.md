@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shazebkh/leetcode-solution/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/shazebkh/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/shazebkh/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/shazebkh/leetcode-solution/tree/master/0520-detect-capital) |
 | [3498-reverse-degree-of-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3941-password-strength](https://github.com/shazebkh/leetcode-solution/tree/master/3941-password-strength) |
