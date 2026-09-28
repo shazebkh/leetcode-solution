@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shazebkh/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/shazebkh/leetcode-solution/tree/master/0520-detect-capital) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shazebkh/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3941-password-strength](https://github.com/shazebkh/leetcode-solution/tree/master/3941-password-strength) |
 ## Linked List
@@ -189,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shazebkh/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shazebkh/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
