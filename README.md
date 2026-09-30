@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/shazebkh/leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/shazebkh/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0520-detect-capital](https://github.com/shazebkh/leetcode-solution/tree/master/0520-detect-capital) |
