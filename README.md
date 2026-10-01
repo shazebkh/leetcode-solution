@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/shazebkh/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shazebkh/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shazebkh/leetcode-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shazebkh/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shazebkh/leetcode-solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shazebkh/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/shazebkh/leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/shazebkh/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shazebkh/leetcode-solution/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/shazebkh/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shazebkh/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shazebkh/leetcode-solution/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/shazebkh/leetcode-solution/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/shazebkh/leetcode-solution/tree/master/1009-complement-of-base-10-integer) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/shazebkh/leetcode-solution/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/shazebkh/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/shazebkh/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/shazebkh/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -199,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shazebkh/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shazebkh/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shazebkh/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
