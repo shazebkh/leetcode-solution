@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shazebkh/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shazebkh/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shazebkh/leetcode-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shazebkh/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shazebkh/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3731-find-missing-elements](https://github.com/shazebkh/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/shazebkh/leetcode-solution/tree/master/3941-password-strength) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shazebkh/leetcode-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0229-majority-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shazebkh/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Geometry
 |  |
