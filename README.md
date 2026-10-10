@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/shazebkh/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3731-find-missing-elements](https://github.com/shazebkh/leetcode-solution/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shazebkh/leetcode-solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3941-password-strength](https://github.com/shazebkh/leetcode-solution/tree/master/3941-password-strength) |
 ## Sorting
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/shazebkh/leetcode-solution/tree/master/0520-detect-capital) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shazebkh/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shazebkh/leetcode-solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3941-password-strength](https://github.com/shazebkh/leetcode-solution/tree/master/3941-password-strength) |
 ## Linked List
 |  |
