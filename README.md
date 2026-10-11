@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shazebkh/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shazebkh/leetcode-solution/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shazebkh/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/shazebkh/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/shazebkh/leetcode-solution/tree/master/3731-find-missing-elements) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shazebkh/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shazebkh/leetcode-solution/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3731-find-missing-elements](https://github.com/shazebkh/leetcode-solution/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shazebkh/leetcode-solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3941-password-strength](https://github.com/shazebkh/leetcode-solution/tree/master/3941-password-strength) |
