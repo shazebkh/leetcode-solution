@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shazebkh/leetcode-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shazebkh/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shazebkh/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shazebkh/leetcode-solution/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shazebkh/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/shazebkh/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shazebkh/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shazebkh/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/shazebkh/leetcode-solution/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shazebkh/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shazebkh/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/shazebkh/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 ## Brainteaser
