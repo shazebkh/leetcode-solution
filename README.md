@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shazebkh/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shazebkh/leetcode-solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shazebkh/leetcode-solution/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/shazebkh/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/shazebkh/leetcode-solution/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/shazebkh/leetcode-solution/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/shazebkh/leetcode-solution/tree/master/0836-rectangle-overlap) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shazebkh/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shazebkh/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shazebkh/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/shazebkh/leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/shazebkh/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/shazebkh/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/shazebkh/leetcode-solution/tree/master/0520-detect-capital) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shazebkh/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
