@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/shazebkh/leetcode-solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shazebkh/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/shazebkh/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shazebkh/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shazebkh/leetcode-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shazebkh/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shazebkh/leetcode-solution/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/shazebkh/leetcode-solution/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/shazebkh/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/shazebkh/leetcode-solution/tree/master/1009-complement-of-base-10-integer) |
 ## Hash Table
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/shazebkh/leetcode-solution/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shazebkh/leetcode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shazebkh/leetcode-solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shazebkh/leetcode-solution/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shazebkh/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shazebkh/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shazebkh/leetcode-solution/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/shazebkh/leetcode-solution/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/shazebkh/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shazebkh/leetcode-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shazebkh/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
