@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/shazebkh/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/shazebkh/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/shazebkh/leetcode-solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shazebkh/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shazebkh/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shazebkh/leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/shazebkh/leetcode-solution/tree/master/0520-detect-capital) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shazebkh/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/shazebkh/leetcode-solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [3110-score-of-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shazebkh/leetcode-solution/tree/master/3760-maximum-substrings-with-distinct-start) |
