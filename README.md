@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/shazebkh/leetcode-solution/tree/master/2525-categorize-box-according-to-criteria) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shazebkh/leetcode-solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shazebkh/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3360-stone-removal-game](https://github.com/shazebkh/leetcode-solution/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shazebkh/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shazebkh/leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shazebkh/leetcode-solution/tree/master/3783-mirror-distance-of-an-integer) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/shazebkh/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shazebkh/leetcode-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/shazebkh/leetcode-solution/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3360-stone-removal-game](https://github.com/shazebkh/leetcode-solution/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/shazebkh/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/shazebkh/leetcode-solution/tree/master/3701-compute-alternating-sum) |
 ## Brainteaser
